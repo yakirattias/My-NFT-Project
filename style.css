@@ -1,0 +1,81 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+
+header {
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  padding: 20px 0;
+}
+
+.yakir-photo{
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.photo-con{
+  float: right;
+  margin-right: 50px
+}
+
+
+
+h1 { 
+ color: #fff; 
+ font-size: 40px;
+ text-transform: uppercase;
+  margin: 0;
+  padding-left: 30px;
+} 
+
+h3 { 
+ color: #000; 
+ font-size: 30px; 
+  margin-left: 30px;
+} 
+
+/*Make border for every person*/
+
+#personDIV {
+  width:100%;
+  height:1000px;
+  background-color:#82c4ab;
+  border:6px outset;
+}
+
+/*Social icons- colors and sizes*/
+
+.social_icon {color: #111; font-size: 40px;
+             transition: color 0.2s;
+             text-decoration: none;
+              margin: 0 10px;
+}
+.social_icon:hover {color: #aaaa;}
+
+.icons{
+  margin-left: 20px;
+}
+
+/*font for the paragraphs*/
+
+.paragraphs {
+  font-size: 20px; font-family: "Trebuchet MS", Helvetica, sans-serif;
+  line-height: 1.5;
+  margin-left: 30px;
+  color: #222;
+  text-align-last: left;
+}
+
+
+.headline {
+  font-family: sans-serif;
+}
+
+
+
+
+
